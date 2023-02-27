@@ -1,0 +1,5 @@
+C:\Users\DELL\Desktop\FStoreAPI\NotificationLayer\obj\Debug\net6.0\NotificationLayer.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\FStoreAPI\NotificationLayer\obj\Debug\net6.0\NotificationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\FStoreAPI\NotificationLayer\obj\Debug\net6.0\NotificationLayer.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\FStoreAPI\NotificationLayer\obj\Debug\net6.0\NotificationLayer.AssemblyInfo.cs
+C:\Users\DELL\Desktop\FStoreAPI\NotificationLayer\obj\Debug\net6.0\NotificationLayer.csproj.CoreCompileInputs.cache

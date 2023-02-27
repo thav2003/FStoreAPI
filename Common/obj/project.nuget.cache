@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KojS+3Si6XV9tHmLMnmTjfqjXU9DB/bRZWkX7gXa5sbV1ipPtYFpoMPWFaGx91ZASNZE1+wLF/gwWKTlFehQDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\FStoreAPI\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

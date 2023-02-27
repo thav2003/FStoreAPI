@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "jGB5xlglwf1vXaB+LKlp4RDGOjyPdYxYGQJhqRauQbQ=",
+  "Source": "FStoreAPI",
+  "BasePath": "_content/FStoreAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FStoreAPI\\wwwroot",
+      "Source": "FStoreAPI",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\FStoreAPI\\FStoreAPI\\wwwroot\\",
+      "BasePath": "_content/FStoreAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\DELL\\Desktop\\FStoreAPI\\FStoreAPI\\wwwroot\\Upload\\10-Capture001.png",
+      "SourceId": "FStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\FStoreAPI\\FStoreAPI\\wwwroot\\",
+      "BasePath": "_content/FStoreAPI",
+      "RelativePath": "Upload/10-Capture001.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\10-Capture001.png"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Desktop\\FStoreAPI\\FStoreAPI\\wwwroot\\Upload\\10-Capture002.png",
+      "SourceId": "FStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\FStoreAPI\\FStoreAPI\\wwwroot\\",
+      "BasePath": "_content/FStoreAPI",
+      "RelativePath": "Upload/10-Capture002.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\10-Capture002.png"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Desktop\\FStoreAPI\\FStoreAPI\\wwwroot\\Upload\\10-zytran.jpg",
+      "SourceId": "FStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\FStoreAPI\\FStoreAPI\\wwwroot\\",
+      "BasePath": "_content/FStoreAPI",
+      "RelativePath": "Upload/10-zytran.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\10-zytran.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Desktop\\FStoreAPI\\FStoreAPI\\wwwroot\\Upload\\zytran.jpg",
+      "SourceId": "FStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\FStoreAPI\\FStoreAPI\\wwwroot\\",
+      "BasePath": "_content/FStoreAPI",
+      "RelativePath": "Upload/zytran.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\zytran.jpg"
+    }
+  ]
+}
